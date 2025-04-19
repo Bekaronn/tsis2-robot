@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.3 on darwin)" generated="20250419 10:49:30.530" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot Interactive Console" source="/Users/bekaron/.vscode/extensions/robocorp.robotframework-lsp-1.13.0/src/robotframework_ls/vendored/robotframework_interactive/robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Check Stack Overflow Homepage">
+<msg timestamp="20250419 10:49:30.936" level="FAIL">No keyword with name 'Check Stack Overflow Homepage' found.</msg>
+<status status="FAIL" starttime="20250419 10:49:30.936" endtime="20250419 10:49:30.936"/>
+</kw>
+<status status="PASS" starttime="20250419 10:49:30.545" endtime="20250419 10:49:32.148"/>
+</kw>
+<status status="PASS" starttime="20250419 10:49:30.545" endtime="20250419 10:49:32.149"/>
+</test>
+<status status="PASS" starttime="20250419 10:49:30.531" endtime="20250419 10:49:32.152"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
